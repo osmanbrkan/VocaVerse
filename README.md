@@ -1,2 +1,2 @@
 # VocaVerse
-A word learning game mobile application we developed for children
+A word learning game, android mobile application we developed.
